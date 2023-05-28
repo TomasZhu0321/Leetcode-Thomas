@@ -72,7 +72,8 @@ A: Line 10, (right-left)>>1 need to add '( )'. In this case, if there is no ( ),
 
 * Intro: 通过一个fast pointer 和 slow pointer， 完成double “for‘ loop 的工作
 
-* <img src="/Users/tomas/Library/Application Support/typora-user-images/Screenshot 2023-05-28 at 2.42.25 PM.png" alt="Screenshot 2023-05-28 at 2.42.25 PM" style="zoom:33%;" />
+* 
+<img width="549" alt="Screenshot 2023-05-28 at 4 40 17 PM" src="https://github.com/TomasZhu0321/Leetcode-Thomas/assets/90658084/671348cd-85a8-46a9-a82d-f46f8ad4be77">
 
   
 
