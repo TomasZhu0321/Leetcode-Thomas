@@ -1,14 +1,14 @@
 # Chapter 1 - Arrays
 
-##💡Basic Knowledge Points
+## 💡Basic Knowledge Points
 
 
 
 ***
 
-##📘Related Problems
+## 📘Related Problems
 
-###15. Binary Search
+### 15. Binary Search
 
 * LeetCode Link:https://leetcode.com/problems/binary-search/
 
@@ -16,7 +16,7 @@
 | ---- | --------- | -------- |
 | 1    | 15mins    | ==Not==  |
 
-####❌Mistakes Reflection
+#### ❌Mistakes Reflection
 
 * My Code
 
@@ -58,7 +58,7 @@ A: Line 10, (right-left)>>1 need to add '( )'. In this case, if there is no ( ),
 
 ***
 
-###27. Remove Element 
+### 27. Remove Element 
 
 * Leetcode: https://leetcode.com/problems/remove-element/description/
 
@@ -68,7 +68,7 @@ A: Line 10, (right-left)>>1 need to add '( )'. In this case, if there is no ( ),
 
 ***
 
-####📍Related Knowledge: ==Two Pointeres==
+#### 📍Related Knowledge: ==Two Pointeres==
 
 * Intro: 通过一个fast pointer 和 slow pointer， 完成double “for‘ loop 的工作
 
