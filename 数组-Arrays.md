@@ -1,14 +1,14 @@
 # Chapter 1 - Arrays
 
-##💡Basic Knowledge Points
+## 💡Basic Knowledge Points
 
 
 
-***
+*** 
 
-##📘Related Problems
+## 📘Related Problems
 
-###15. Binary Search
+### 15. Binary Search
 
 * LeetCode Link:https://leetcode.com/problems/binary-search/
 
@@ -16,7 +16,7 @@
 | ---- | --------- | -------- |
 | 1    | 15mins    | ==Not==  |
 
-####❌Mistakes Reflection
+#### ❌Mistakes Reflection
 
 * My Code
 
@@ -58,7 +58,7 @@ A: Line 10, (right-left)>>1 need to add '( )'. In this case, if there is no ( ),
 
 ***
 
-###27. Remove Element 
+### 27. Remove Element 
 
 * Leetcode: https://leetcode.com/problems/remove-element/description/
 
@@ -68,14 +68,13 @@ A: Line 10, (right-left)>>1 need to add '( )'. In this case, if there is no ( ),
 
 ***
 
-####📍Related Knowledge: ==Two Pointeres==
+#### 📍Related Knowledge: ==Two Pointeres==
 
 * Intro: 通过一个fast pointer 和 slow pointer， 完成double “for‘ loop 的工作
 
-* <img src="/Users/tomas/Library/Application Support/typora-user-images/Screenshot 2023-05-28 at 2.42.25 PM.png" alt="Screenshot 2023-05-28 at 2.42.25 PM" style="zoom:33%;" />
+* ![twoPointers](https://github.com/TomasZhu0321/Leetcode-Thomas/assets/90658084/6d028168-13a9-421f-bac0-71737ab2a75c)
 
   
-
 ***
 
 * My Code:
@@ -106,7 +105,7 @@ A: Line 10, (right-left)>>1 need to add '( )'. In this case, if there is no ( ),
 * My Idea:
   * Method: Two Pointers (Left and Right)
   * Specific: When nums[right] is higher than nums[left], exchange. 
-  * ❓**Q1: But in this case, how to make sure the left pointer always point to the minimum? In other wrods, when to shift the left pointer? **
+  * ❓**Q1: But in this case, how to make sure the left pointer always point to the minimum? In other wrods, when to shift the left pointer?**
     * A：The problem is "Exchange". The right way should be **creating a new array** to store the compared value.
 
 | Nth  | Time Cost            | Pass/Not |
