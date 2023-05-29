@@ -98,7 +98,7 @@ A: Line 10, (right-left)>>1 need to add '( )'. In this case, if there is no ( ),
 
 ***
 
-###977. Squares of a Sorted Array
+### 977. Squares of a Sorted Array
 
 * LeetCode: https://leetcode.com/problems/squares-of-a-sorted-array/
 
